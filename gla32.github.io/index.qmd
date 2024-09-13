@@ -1,0 +1,7 @@
+---
+title: "My Profile"
+---
+
+Welcome to my website where you can get more inforamtion about myself and the things i have accomplished.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

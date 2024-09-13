@@ -1,0 +1,20 @@
+project: Personal Website
+  type: website
+  This is my officla page 
+
+website:
+  title: "Profile"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
