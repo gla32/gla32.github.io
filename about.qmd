@@ -1,9 +1,55 @@
 ---
-title: "About"
+title: "About Me"
+
+description: "Learn more about me and my journey!"
+format:
+  html:
+    css: styles.css  # Reference to your CSS file for custom styling
+    toc: true        # Adds a table of contents
+    toc-location: right
+image: "about_me.jpg"  # Path to your profile image
+background_image: "background.jpg"  # Background image for the page
+---
+
+---
+
+# Hello, I'm Gilbert Akuja!
+
+Welcome to my About page! I'm a passionate **Consulting and Data Science** with a love for **Individualised Projects**. I have a strong background in **Applied Economics** and enjoy exploring new challenges.
+
+---
+
+## My Skills
+
+Over the years, I've developed a diverse skill set, including:
+
+- **Web Development**: Building responsive and user-friendly websites.
+- **Data Analysis**: Making data-driven decisions with Python, R, and Excel.
+- **Creative Writing**: Crafting engaging content and stories.
+
+---
+
+## Projects I've Worked On
+
+Here are some of the recent projects I've been working on:
+
+- **Project 1**: A data analysis tool built using Python.
+- **Project 2**: A responsive personal blog built with Quarto.
+
+---
+
+## Get in Touch
+
+Feel free to reach out for any inquiries or collaborations:
+
+- **Email**: [gla32@cornell.edu](mailto:yourname@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname)
+- **Twitter**: [Your Twitter Profile](https://twitter.com/yourname)
+
 ---
 Gilbert Akuja 
 
-Welcome to my profile page. Here I talk about myself and my accomplishments. 
+Welcome to my profile page. Here i talk about myself and my accomplishments. 
 
 I was a student at Charles H. Dyson school of Applied Economic and Management at Cornell University. My academic concentrations were finance and business analytics. I enjoyed corporate finance, financial markets and institutions and financial services analytics. I am keen on using my business aptitude in the field of financial services. My end goal is to start an enterprise of my own. Through my time in and outside class I have developed a number of skills that include:
 
@@ -14,3 +60,6 @@ Team work: Through academics and extracurricular activities, I have learnt how t
 Communication skills: My experience in customer service has strengthened my ability to interact and converse with various types of people. I have the confidence to approach customers, discover their specific requests, then provide proper recommendations based on their descriptions. 
 
 I am eager to expand my knowledge and network in future internships and opportunities. Please feel free to connect with me at gilbertakuja12@gmail.com with any inquiries and potential opportunities.
+
+
+My skills include the following: 

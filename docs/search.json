@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Gilbert Akuja\nWelcome to my profile page. Here I talk about myself and my accomplishments.\nI was a student at Charles H. Dyson school of Applied Economic and Management at Cornell University. My academic concentrations were finance and business analytics. I enjoyed corporate finance, financial markets and institutions and financial services analytics. I am keen on using my business aptitude in the field of financial services. My end goal is to start an enterprise of my own. Through my time in and outside class I have developed a number of skills that include:\nAnalytical skills: I am skilled in analyzing data sets and formulating data sets in Microsoft Excel. These skills result directly from various high school computer courses and my current spreadsheet modeling course. This course has required me to think critically when creating formulas and evaluating data sets.\nTeam work: Through academics and extracurricular activities, I have learnt how to work in teams to accomplish projects. I bring a sense of responsibility in every team I work in. I believe team work is key to success in any business.\nCommunication skills: My experience in customer service has strengthened my ability to interact and converse with various types of people. I have the confidence to approach customers, discover their specific requests, then provide proper recommendations based on their descriptions.\nI am eager to expand my knowledge and network in future internships and opportunities. Please feel free to connect with me at gilbertakuja12@gmail.com with any inquiries and potential opportunities."
+    "objectID": "about.html#my-skills",
+    "href": "about.html#my-skills",
+    "title": "About Me",
+    "section": "My Skills",
+    "text": "My Skills\nOver the years, I’ve developed a diverse skill set, including:\n\nWeb Development: Building responsive and user-friendly websites.\nData Analysis: Making data-driven decisions with Python, R, and Excel.\nCreative Writing: Crafting engaging content and stories."
+  },
+  {
+    "objectID": "about.html#projects-ive-worked-on",
+    "href": "about.html#projects-ive-worked-on",
+    "title": "About Me",
+    "section": "Projects I’ve Worked On",
+    "text": "Projects I’ve Worked On\nHere are some of the recent projects I’ve been working on:\n\nProject 1: A data analysis tool built using Python.\nProject 2: A responsive personal blog built with Quarto."
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About Me",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nFeel free to reach out for any inquiries or collaborations:\n\nEmail: gla32@cornell.edu\nLinkedIn: Your LinkedIn Profile\nTwitter: Your Twitter Profile\n\n\nGilbert Akuja\nWelcome to my profile page. Here i talk about myself and my accomplishments.\nI was a student at Charles H. Dyson school of Applied Economic and Management at Cornell University. My academic concentrations were finance and business analytics. I enjoyed corporate finance, financial markets and institutions and financial services analytics. I am keen on using my business aptitude in the field of financial services. My end goal is to start an enterprise of my own. Through my time in and outside class I have developed a number of skills that include:\nAnalytical skills: I am skilled in analyzing data sets and formulating data sets in Microsoft Excel. These skills result directly from various high school computer courses and my current spreadsheet modeling course. This course has required me to think critically when creating formulas and evaluating data sets.\nTeam work: Through academics and extracurricular activities, I have learnt how to work in teams to accomplish projects. I bring a sense of responsibility in every team I work in. I believe team work is key to success in any business.\nCommunication skills: My experience in customer service has strengthened my ability to interact and converse with various types of people. I have the confidence to approach customers, discover their specific requests, then provide proper recommendations based on their descriptions.\nI am eager to expand my knowledge and network in future internships and opportunities. Please feel free to connect with me at gilbertakuja12@gmail.com with any inquiries and potential opportunities.\nMy skills include the following:"
   },
   {
     "objectID": "gla32.github.io/about.html",
